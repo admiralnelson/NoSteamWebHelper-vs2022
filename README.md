@@ -20,28 +20,8 @@ The dynamic link library toggles the CEF depending if an is app running or not.
 This way, the Steam UI is still accessible to use.
     
 
-# Usage
-1. Download the latest release from [GitHub Releases](https://github.com/Aetopia/NoSteamWebHelper/releases).
-
-2. Unzip `NoSteamWebHelper.zip`, place `NoSteamWebHelper.exe` & `NoSteamWebHelper.dll` in your Steam installation directory where `steam.exe` is located.
-
-3. Make sure Steam is fully closed and run `NoSteamWebHelper.exe` to launch Steam.
-
-4. Start up an app and the CEF will be toggled accordingly.
-
 # Build
-1. Install [MSYS2](https://www.msys2.org/) & [UPX](https://upx.github.io/) for optional compression.
-2. Update the MSYS2 Environment until there are no pending updates using:
-
-    ```bash
-    pacman -Syu --noconfirm
-    ```
-
-3. Install GCC i686 using:
-
-    ```bash
-    pacman -S mingw-w64-i686-gcc
-    ```
-
-4. Make sure `<MSYS2 Installation Directory>\mingw32\bin` is added to the Windows `PATH` environment variable.
-5. Run [`Build.cmd`](Build.cmd).
+1. hurrr durr double clike le sln
+2. click le green build button on release
+3. ??????
+4. less bloated steam(pile of shite)
